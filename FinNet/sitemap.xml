@@ -7,10 +7,16 @@
     <loc>https://fatelarico.github.io/FinNet.html/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://fatelarico.github.io/FinNet.html/articles/analysis_examples.html</loc>
+  </url>
+  <url>
     <loc>https://fatelarico.github.io/FinNet.html/articles/index.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/articles/workflow-igraph_financial.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/articles/workflow-network_financial.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/authors.html</loc>
@@ -88,7 +94,19 @@
     <loc>https://fatelarico.github.io/FinNet.html/reference/FO.norm.html</loc>
   </url>
   <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/FinNet.html</loc>
+  </url>
+  <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/Matrix-and-matrix.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/SCC.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/SCC2.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/SCC2.prep.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/add.attribute.html</loc>
@@ -103,6 +121,9 @@
     <loc>https://fatelarico.github.io/FinNet.html/reference/as.firm.html</loc>
   </url>
   <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/cfa.html</loc>
+  </url>
+  <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/check.against.other.slots.html</loc>
   </url>
   <url>
@@ -110,6 +131,12 @@
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/dot-set_names.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/extract.matrix.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/fiedler.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/financial_matrix.html</loc>
@@ -137,6 +164,9 @@
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/fun-igraph_financial.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/fun-network_financial.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/get.binarary.values.html</loc>
@@ -175,16 +205,28 @@
     <loc>https://fatelarico.github.io/FinNet.html/reference/listing.html</loc>
   </url>
   <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/load.Matrix.html</loc>
+  </url>
+  <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/naming.html</loc>
   </url>
   <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/network.efficiency.html</loc>
+  </url>
+  <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/network_financial.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/network_operators.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/palette.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/plot_igraph-methods.html</loc>
+  </url>
+  <url>
+    <loc>https://fatelarico.github.io/FinNet.html/reference/plot_network-methods.html</loc>
   </url>
   <url>
     <loc>https://fatelarico.github.io/FinNet.html/reference/print-financial_matrix-method.html</loc>
