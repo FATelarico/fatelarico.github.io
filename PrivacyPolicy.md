@@ -2,7 +2,8 @@
 
 ## Data Controller
 Fabio Ashtar Telarico
-Email: Fabio-Ashtar.Telarico@fdv.uni-lj.si
+
+Email: [contact.fatelarico@dewdata.com](mailto:contact.fatelarico@dewdata.com)
 
 ## Data Collection
 This website does not collect, store, or process any personal data from visitors.
