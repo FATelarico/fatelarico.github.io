@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.fatelarico.eu" target="_self"><img src="https://img.shields.io/badge/website-ONLINE-brightgreen"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.fatelarico.eu" target="_blank">
+  <a href="[https://www.fatelarico.eu](http://docs.webstudio.is/)" target="_blank">
     <img src="https://img.shields.io/badge/Built%20with%20%20-WebStudio-purple?logo=webtrees"/>
   </a>
 </p>
